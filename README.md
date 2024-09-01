@@ -1,4 +1,4 @@
-# Social Media Screen & Fitness Screen
+# Social Media Screen & Fitness Screens
 
 <div style="white-space: nowrap;">
     <img src="https://github.com/SatyamkrJha85/Different_Screens/assets/111700337/e718fa10-4af6-410d-837b-46a15c1459b6" alt="Social Screen Image" width="500" height="300">
